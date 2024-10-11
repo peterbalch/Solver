@@ -5,3 +5,4 @@ The Solve pocket calculator solves equations numerically. You can build the calc
 You can use Solve as an ordinary pocket calculator: type in an expression and it will show you the answer. Or you can type in several equations in any order and it will solve them. The equations can be non-linear and simultaneous If they contain "For Loops" then they will produce a table of answers or plot a graph.
 
 A complete description of the project is available on Instructables
+https://www.instructables.com/ESP32-Equation-Solving-Calculator/
